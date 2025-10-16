@@ -1,0 +1,356 @@
+/* view-1024 laptop */
+
+@media only screen and (min-width: 100px) and (max-width: 1199px){
+    header.header .header-logo{
+        width: 80%;
+    }
+    button.accordian-btn {
+        margin: 0px 0px 10px 45px;
+        letter-spacing: 0px;
+    }
+    .section-9-accordion {
+        margin-top: 50px;
+    }
+    section.section-9 .choose-us-main {
+        padding: 60px 0px;
+        padding-bottom: 0px;
+    }
+    .slick-arrow{
+        display: none !important;
+    }
+    nav.nav-bar {
+        float: right;
+    }
+    header.header .main-menu ul li {
+        margin: 10px 11px;
+    }
+    .header .main-menu ul li a{
+        font-size: 12px;
+    }
+    .section-1 .section-1-banner h2 {
+        font-size: 42px;
+    }
+    .section-1 .section-1-banner h4{
+        font-size: 15px;
+        margin: 18px 0px;
+    }
+    .section-1 .section-1-banner a {
+        padding: 15px 32px;
+        font-size: 13px;
+    }
+    .section-1 .banner-content p {
+        margin: 11px 0px;
+        font-size: 14px;
+    }
+    .section-1 .slick-dots li {
+        display: inline-block;
+        margin: 0px 5px;
+        margin-top: 33px;
+    }
+    .section-2 .section-1-main .section-1-main-content {
+        padding: 16px 0px;
+
+    }
+    .section-2 .section-1-main .section-1-main-content a span{
+        font-size: 12px;
+    }
+    .section-1 .section-1-banner {
+        padding-top: 250px;
+    }
+    section.section-2 .section-1-main .section-1-main-content h2 a{
+        font-size: 16px;
+    }
+    section.section-2 .section-1-main .section-1-main-content h2 a{
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .section-5 .wprt-icon-text{
+        margin: 0px 0px;
+    }
+    .section-5 .wprt-icon-text .text a{
+        font-size: 14px;
+        font-weight: 600;
+    }
+    section.section-6 .wprt-icon-box .wprt-icon-content{
+        padding-left: 95px;
+    }
+    section.section-7 .wihte-text p{
+        font-size: 20px;
+    }
+    section.section-8 .customer-clearfix .customer-clearfix-content{
+        padding: 15px 20px;
+    }
+    .customer-clearfix-testimonials .testimonials-content h3{
+        font-size: 15px;
+        letter-spacing: 0px;
+    }
+    .section-heading:before{
+        left: 45%;
+    }
+    button.accordian-btn {
+        margin: 10px 25px;
+        width: 90%;
+        font-size: 15px;
+        letter-spacing: 0px;
+        padding: 10px 15px 10px 0px;
+    }
+    .accordian-body-main {
+        width: 85%;
+        margin: 0px 0px 0px 40px;
+        padding: 10px 0px;
+    }
+    .section-9-accordion {
+        margin-top: 50px;
+    }
+    section.section-9 .choose-us-main{
+        padding: 50px 0px;
+    }
+    .popular-tags .tags-cloud a {
+        font-size: 13px;
+        margin: 0 6px 10px 0;
+        padding: 6px 7px;
+    }
+    .instagram-clearfix .insta-photos a .item{
+        margin: 8px 5px;
+    }
+    .widget-content p{
+        padding: 0px 0px;
+    }
+    .widget-content ul li{
+        margin: 0px 0px;
+    }
+    /* hovers styling */
+    /* .isotopes-main.hover-2 .isotopes-main-content{
+        padding: 45px 0px;
+    }
+    .isotopes-main.hover-2 .isotopes-main-content:before {
+        width: 70%;
+        height: 75%;
+        top: 23px;
+        left: 38px;
+    }
+    .isotopes-main.hover-2 .isotopes-main-content h2 {
+        font-size: 20px;
+    }
+    .isotopes-main.hover-2 .isotopes-main-content span {
+        font-size: 16px;
+    }
+    .isotopes-main.hover-1 .isotopes-main-content h2 a {
+        font-size: 22px;
+        margin: 0px 0px;
+    }
+    .isotopes-main.hover-1 .isotopes-main-content span a {
+        padding: 10px 0px;
+        font-size: 15px;
+    } */
+
+    .iso-items-main {
+        flex-wrap: wrap;
+    }
+    .iso-tab-main {
+        width: 33.33%;
+    }
+
+
+    .footer-logo{
+        width: 60%;
+    }
+    .popular-tags h2{
+        text-align: left;
+    }
+    .useful-links h2{
+        text-align: left;
+    }
+    .footer .row:first-child{
+        justify-content: center;
+        align-items: center;
+    }
+    .useful-links .widget-links ul li a{
+        padding: 0px 5px;
+    }
+    .useful-links .widget-links ul li{
+        margin: 5px 8px;
+    }
+}
+
+/* view-768 tablet */
+
+@media only screen and (min-width: 100px) and (max-width: 991px){
+    nav.nav-bar {
+        display: none;
+    }
+    header.header .header-logo{
+        width: 60%;
+    }
+    
+    .banner-image img {
+        height: 600px;
+        object-fit: cover;
+    }
+    .ham-menu {
+        display: block;
+    }
+    section.section-4 .section-4-menu ul li a{
+        padding: 10px 15px;
+    }
+    .section-5 .wprt-icon-text {
+        margin: 20px 0px;
+    }
+    .section-6 {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+    section.section-6 .wprt-icon-box .wprt-icon-content p{
+        font-size: 12px;
+    }
+    .wrpt-img {
+        display: none;
+    }
+    section.section-7 .wihte-text p {
+        font-size: 18px;
+    }
+    .footer-main{
+        height: 450px;
+    }
+    footer.footer {
+        padding-top: 30px;
+    }
+    .footer-logo {
+        width: 50%;
+    }
+    .popular-tags .tags-cloud a {
+        font-size: 12px;
+        margin: 0 5px 10px 0;
+        padding: 6px 7px;
+    }
+    .instagram-clearfix .insta-photos a .item {
+        margin: 8px 5px;
+        width: 25%;
+    }
+    .popular-tags h2 , .useful-links h2 , .instagram-clearfix h2{
+        text-align: left;
+    }
+    .footer-nav ul li {
+        display: inline-block;
+        margin: 5px 15px;
+    }
+    .copyright p {
+        font-size: 12px;
+        letter-spacing: 0px;
+        margin: 30px 0px;
+    }
+    .iso-tab-main {
+        width: 50%;
+    }
+}
+
+/* view-576 landscape-mobile */
+
+
+@media only screen and (min-width: 100px) and (max-width: 767px){
+    .header-logo{
+        width: 23;
+    }
+    .iso-tab-main {
+        width: 100%;
+    }
+    .copyright p{
+        text-align: center;
+        margin: 30px 0px 15px
+    }
+    section.section-10 .section-10-content p {
+        text-align: center;
+        padding: 40px 15px;
+    }
+    .footer-nav {
+        text-align: center;
+        margin: 0px 0px 20px;
+    }
+    section.section-8 .section-5-content p {
+        padding: 50px 20px;
+    }
+    section.section-8 {
+        padding: 50px 0px 20px;
+    }
+    section.section-7 .wihte-text p {
+        text-align: center;
+    }
+    section.section-7 .get-button {
+        text-align: center;
+    }
+    section.section-8 h1 {
+        font-size: 25px;
+        letter-spacing: 0px;
+    }
+   section.section-1 .banner-content {
+       display: flex;
+       align-items: center;
+       justify-content: center;
+    }
+    .section-1 .section-1-banner h2 {
+       font-size: 30px;
+    }
+    .section-1 .section-1-banner h4 {
+        font-size: 22px;
+        font-weight: 400;
+        letter-spacing: 1px;
+    }
+    section.section-1 .banner-content p {
+        margin: 30px 0px;
+        letter-spacing: 0px;
+        line-height: 30px;
+        font-size: 15px;
+    }
+    section.section-10 .section-10-icons {
+        left: 120px;
+    }
+}
+
+/* view-375 mobile*/
+
+
+@media only screen and (min-width: 100px) and (max-width: 575px){
+    
+}
+
+/* view-320 extra-small-mobile */
+
+@media only screen and (min-width: 100px) and (max-width: 374px){
+    .main-content-2 .social-icons ul{
+        margin: 0px 0px;
+    }
+    .copyright p{
+        font-size: 10px;
+    }
+    .footer-nav ul li{
+        margin: 5px 10px;
+    }
+    .section-1 .section-1-banner h2 {
+        font-size: 25px;
+    }
+    section.section-3 .section-3-paralex p{
+        font-size: 12px;
+    }
+    .section-1 .slick-dots{
+        bottom: 50px;
+    }
+    section.section-3 .section-3-paralex h2{
+        font-size: 33px;
+    }
+    .section-1 .section-1-banner h4 {
+        font-size: 15px;
+        letter-spacing: 0;
+    }
+    section.section-8 .section-5-content p {
+        padding: 50px 0px;
+        font-size: 13px;
+        word-spacing: 0px;
+        line-height: 1.7;
+    }
+    section.section-8 h1 {
+        font-size: 25px;
+        letter-spacing: 0px;
+        line-height: 1.6;
+    }
+
+}
